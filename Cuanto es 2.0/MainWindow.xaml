@@ -1,0 +1,66 @@
+﻿<Window x:Class="Cuanto_es_2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cuanto_es_2._0"
+        mc:Ignorable="d"
+        Title="Cuanto es ? -2.0" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="389*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label1" Content="Cuanto es ?" HorizontalAlignment="Left" Margin="32.235,20,0,0" VerticalAlignment="Top" Width="171" FontSize="36" Grid.Column="2"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="83,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" CaretBrush="#FF050015" BorderBrush="#FF32FF04" SelectionBrush="#FF51FF00" Grid.Column="2"/>
+        <Label x:Name="label1_Copy" Content="2.0" HorizontalAlignment="Left" Margin="161.235,66,0,0" VerticalAlignment="Top" Width="171" RenderTransformOrigin="0.5,0.5" Grid.Column="2">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-33.495"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="8.603"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="label1_Copy1" Content="Jugador :" HorizontalAlignment="Left" Margin="25,162,0,0" VerticalAlignment="Top" Width="66" RenderTransformOrigin="0.5,0.5" Grid.Column="2">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="2.106"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-0.478"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button x:Name="button" Content="Adelante!" Grid.Column="2" HorizontalAlignment="Left" Margin="106,261,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <ComboBox x:Name="comboBox" Grid.Column="2" HorizontalAlignment="Left" Margin="83,202,0,0" VerticalAlignment="Top" Width="120" DataContextChanged="comboBox_DataContextChanged">
+            <ComboBoxItem Content="Novato" Background="#FFFF00D1"/>
+            <ComboBoxItem Content="Normal" Background="#FF2EFF00" Foreground="Black"/>
+            <ComboBoxItem Content="Experto" Background="#FFFFE800"/>
+            <ComboBoxItem Content="Chuck Norris" Background="Red" Foreground="White"/>
+        </ComboBox>
+        <Label x:Name="label1_Copy2" Content="Nivel :" HorizontalAlignment="Left" Margin="31,200,0,0" VerticalAlignment="Top" Width="66" RenderTransformOrigin="0.5,0.5" Grid.Column="2">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="2.106"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-0.478"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="errorReporter" Content="" HorizontalAlignment="Left" Margin="18,230,0,0" VerticalAlignment="Top" Width="493" RenderTransformOrigin="0.5,0.5" Height="34" HorizontalContentAlignment="Center" Foreground="Red" Grid.ColumnSpan="3">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="5.244"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.716" Y="-0.626"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+
+    </Grid>
+</Window>

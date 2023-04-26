@@ -1,0 +1,53 @@
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\bin\Debug\Cuanto es 2.0.exe.config
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\bin\Debug\Cuanto es 2.0.exe
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\bin\Debug\Cuanto es 2.0.pdb
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\MainWindow.g.cs
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\App.g.cs
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0_MarkupCompile.cache
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0_MarkupCompile.lref
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\MainWindow.baml
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.g.resources
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto_es_2._0.Properties.Resources.resources
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csproj.GenerateResource.Cache
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.exe
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.pdb
+C:\Users\Rony\source\repos\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto_es_2._0.Jugando.resources
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\bin\Debug\Cuanto es 2.0.exe.config
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\bin\Debug\Cuanto es 2.0.exe
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\bin\Debug\Cuanto es 2.0.pdb
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csprojResolveAssemblyReference.cache
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\MainWindow.g.cs
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\App.g.cs
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0_MarkupCompile.cache
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0_MarkupCompile.lref
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\MainWindow.baml
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.g.resources
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto_es_2._0.Jugando.resources
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto_es_2._0.Properties.Resources.resources
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csproj.GenerateResource.Cache
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csproj.CoreCompileInputs.cache
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.exe
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.pdb
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\juego.g.cs
+C:\Users\rony cruz\Desktop\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\juego.baml
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\bin\Debug\Cuanto es 2.0.exe.config
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\bin\Debug\Cuanto es 2.0.exe
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\bin\Debug\Cuanto es 2.0.pdb
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csproj.AssemblyReference.cache
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csproj.SuggestedBindingRedirects.cache
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\juego.g.cs
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\MainWindow.g.cs
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\App.g.cs
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0_MarkupCompile.cache
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0_MarkupCompile.lref
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\juego.baml
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\MainWindow.baml
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.g.resources
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto_es_2._0.Jugando.resources
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto_es_2._0.Properties.Resources.resources
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csproj.GenerateResource.cache
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.csproj.CoreCompileInputs.cache
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.exe
+E:\proyectos de programacion\Cuanto es 2.0\Cuanto es 2.0\obj\Debug\Cuanto es 2.0.pdb
